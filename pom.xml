@@ -18,7 +18,7 @@
     <objectify.version>5.1.5</objectify.version>
     <guava.version>18.0</guava.version>
 
-    <spring.version>4.1.0.RELEASE</spring.version>
+    <spring.version>3.1.2.RELEASE</spring.version>
     <spring.security.version>3.2.4.RELEASE</spring.security.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
